@@ -1,4 +1,4 @@
-package Pessoa;
+package classPessoa;
 
 // Aluno é uma classe CONCRETA que herda da classe ABSTRATA Pessoa.
 public class Aluno extends Pessoa {
